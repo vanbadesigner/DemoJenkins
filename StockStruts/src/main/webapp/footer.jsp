@@ -4,6 +4,8 @@
 
 <html>
     <body>
-        <div align="center">&copy; vanbadesigner</div>
+        <div align="center">&copy; vanbadesigner Test commit amend</div>
+        <div align="center">&copy; vanbadesigner Test commit amend 1</div>
+        <div align="center">&copy; vanbadesigner Test commit amend 2</div>
     </body>
 </html>
